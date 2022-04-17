@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911551974607",
+    "project_id": "flyingcat2022",
+    "storage_bucket": "flyingcat2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911551974607:android:4d3415ef834f16f7637bba",
+        "android_client_info": {
+          "package_name": "com.flyingcat.flyingcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911551974607-vn3oi7ug52693uqqon0tjgemr8fkaepf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flyingcat.flyingcat",
+            "certificate_hash": "dce3376c76f7b2c3ee1580875df65fcebe920366"
+          }
+        },
+        {
+          "client_id": "911551974607-5lvo5he20e1elkloi2tuqtqhuu3rjhsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKqWtzAeoFyUPEFGvOCiPEAFDqtJf8Guc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911551974607-5lvo5he20e1elkloi2tuqtqhuu3rjhsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
